@@ -1,0 +1,15 @@
+.app-header {
+  align-items: flex-end;
+  justify-content: space-between;
+
+}
+
+.app-header h1 {
+  font-size: 25px;
+  color: rgb(13, 94, 94);
+}
+
+.app-header h2 {
+  font-size: 1.2rem;
+  color: rgb(0, 86, 76);
+}
